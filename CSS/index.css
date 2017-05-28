@@ -1,0 +1,76 @@
+header{
+	background-color: #8bc34a;
+	color:white;
+}
+p{
+	margin-bottom: 0;
+}
+.paginas{
+	padding-bottom: 20px;
+}
+.salir{
+	padding: 1em;
+}
+.carousel{
+	padding: 0;
+}
+.carousel img{
+	width: 100%;
+	height: 300px;
+}
+.columnaCarrusel{
+	padding: 0;
+}
+.oferta{
+	color: black;
+}
+.footer{
+	background-color: #8bc34a;
+}
+.h4{
+	text-align: center;
+	margin: 2em 0 1em 0;
+}
+.cosa{
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	color: black;
+}
+.modal{
+	color: black;
+}
+.caja{
+	width: 100%;
+	height: auto;
+}
+.lateral .nav-item{
+	border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    padding: .1em;
+    margin: 0.1em 0;
+    color: black;
+}
+.filtros{
+	font-weight: 500;
+	background-color: #8bc34a;
+	color: white!important;
+}
+.active{
+	color:#8bc34a;
+}
+.page-item.active .page-link{
+	background-color: #8bc34a;
+	border-color:#8bc34a;
+}
+.jumbotron{
+	margin-top: 20px;
+	background-color: #E89C0C;
+}
+.jumbotron:hover{
+	background-image: url("../img/oferta.jpg");
+	background-size: cover;
+}
+.none{
+	display: none;
+}
